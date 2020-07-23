@@ -5,12 +5,15 @@ Answer these on your own, then compare answers as a group
 1.  What are props?
 
 2.  How do you pass props from a parent to a child?
+You pass them as an atri
 
 3.  How do you access props from a class-based child component?
+You access it with this.props after you pass it with the
 
 4.  How do you access props from a functional component?
+you access them by passing in a paramiter and then using
 
-5.  How do you bind a function to a parent component so that it can be passed to a child?
+5.  How do you bind a function to a parent component so that it can be passed to a child? 
 
 ### Understand
 

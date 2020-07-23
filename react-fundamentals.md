@@ -3,16 +3,23 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is React?
+a javascript library 
 
 2.  What is create-react-app?
+a tool that we use in our command line to set up our app
 
 3.  What is Component Based Architecture?
 
 4.  What is JSX?
+reacts way of using html like syntax
 
 5.  What is the virtual DOM?
 
+It is a light weight copy of the actual dom which allows react to perform faster.
+
 6.  What is unidirectional (one-way) data flow?
+
+data that is only passed down from the parent component. 
 
 ### Understand
 
@@ -22,7 +29,11 @@ Discuss these questions in pairs if you have a 4-person group
 
 8.  Summarize the steps for forking and cloning a repo with an existing React app. How does this process differ from the process of creating a new React app on your laptop?
 
+forking and cloning you are taking a 
+
 9.  Explain what this code does:
+
+
 
 ```jsx
 import React from "react";
